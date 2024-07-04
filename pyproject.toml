@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "edu-pytorch-basics"
+version = "0.1.0"
+description = "Learning something about ML"
+authors = ["Ivan Zakutnii <zakutnii.ivan@gmail.com>"]
+license = "WTFPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.2.3"
+numpy = "^2.0.0"
+matplotlib = "^3.9.0"
+torchviz = "^0.0.2"
+graphviz = "^0.20.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

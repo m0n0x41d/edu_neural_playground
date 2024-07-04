@@ -80,3 +80,5 @@ __pypackages__/
 .jupyter/
 .jupyter_runtime/
 
+/dist/*
+
