@@ -80,5 +80,9 @@ __pypackages__/
 .jupyter/
 .jupyter_runtime/
 
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# My stuff
 /dist/*
 
