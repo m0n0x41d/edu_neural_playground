@@ -85,3 +85,5 @@ __pypackages__/
 # My stuff
 /dist/*
 
+#Datasets
+exercises/data/*
